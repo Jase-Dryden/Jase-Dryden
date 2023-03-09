@@ -1,5 +1,3 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 # Jase Dryden
 
 **`Student studying Electrical Engineering`**
@@ -7,7 +5,8 @@
 I am a student studying at Brigham Young University Idaho, majoring in Electrical Engineering. My code consists of school projects, 
 Artificial intelligence society projects and my personal code.
 
------
+---
+
 ## Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
