@@ -16,4 +16,17 @@ Artificial intelligence society projects and my personal code.
 <br />
 <br />
 
+---
+
+## Projects 
+
+### Python
+
+* [Word Game]("https://github.com/Jase-Dryden/Wordle-Game")
+* [Password Vault]("https://github.com/Jase-Dryden/Password_Vault")
+
+### C#
+
+* [SkyWar]("https://github.com/Jase-Dryden/SkyWar")
+
 
